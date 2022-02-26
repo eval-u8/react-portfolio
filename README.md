@@ -14,7 +14,7 @@ This is a simple website to showcase my portfolio, built on React with some Mate
 ## Preview 👀 
 
 [Click here to go to the live site](https://evalecillos.github.io/react-portfolio/)
-![Preview](rm-assets/site-preview.png)
+![Preview](readme-assets/site-preview.png)
 
 
 
