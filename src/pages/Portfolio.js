@@ -31,8 +31,8 @@ function Portfolio() {
             title: "Shop-Shopdux",
             id: 3,
             img: Shopshopdux,
-            link: "https://radiant-tundra-86540.herokuapp.com/",
-            git: "https://github.com/rmartin1985/shop-shop",
+            link: "https://rocky-basin-87086.herokuapp.com/",
+            git: "https://github.com/evalecillos/shop-shopdux",
             description: 'E-commerce website clone to demonstrate offline capabilities and checkout functions.',
             built: 'IndexedDB, React, Redux, Stripe API'
         },
