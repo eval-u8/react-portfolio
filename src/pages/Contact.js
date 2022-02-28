@@ -27,10 +27,10 @@ const Contact = () => {
 
         emailjs
             .sendForm(
-                "gmail",
+                "service_2qklxrs",
                 "contact_form",
                 form.current,
-                "service_rzzol6o"
+                "user_qDjIclasnnOjG7Wz1qHR7"
             )
             .then(
                 (result) => {
