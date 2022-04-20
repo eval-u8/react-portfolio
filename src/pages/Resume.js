@@ -4,7 +4,7 @@ import {
     Grid,
     Button
 } from "@mui/material";
-import EVResume from '../assets/resume/resume.pdf';
+import EVResume from '../assets/resume/resume.docx';
 
 
 function Resume() {
@@ -17,7 +17,7 @@ function Resume() {
                         variant="contained" 
                         component='a' 
                         href={EVResume} 
-                        download="Ernesto_V_Resume.pdf"
+                        download="Ernesto_V_Resume.docx"
                         sx={{backgroundColor: '#3782c8', color:'#ffffff', '&.MuiButtonBase-root:hover': { bgcolor: '#ffffff', color:'#3782c8' }}}>
                         Click here to download my resume
                     </Button>
