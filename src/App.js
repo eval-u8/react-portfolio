@@ -22,7 +22,6 @@ function App() {
                         <Route path="/portfolio" element={<Portfolio />} />
                         <Route path="/contact" element={<ContactForm />} />
                         <Route path="/resume" element={<Resume />} />
-
                         <Route
                             render={() => (
                                 <h1 className="display-2">Wrong Page!</h1>
