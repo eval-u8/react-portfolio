@@ -13,7 +13,7 @@ This is a simple website to showcase my portfolio, built on React with some Mate
 
 ## Preview 👀 
 
-[Click here to go to the live site](https://ernesto-valecillos.herokuapp.com/)
+[Click here to go to the live site](https://ernestov.netlify.app/)
 ![Preview](readme-assets/site-preview.png)
 
 
