@@ -20,7 +20,7 @@ function Footer() {
     return (
         <Box component='footer' className={classes.foot} >
             <BottomNavigation sx={{ bgcolor: '#3782c8' }} showLabels>
-                <BottomNavigationAction sx={{ color: '#ffffff' }} href='https://github.com/evalecillos' target='_blank' label="GitHub" className={classes.root} icon={<GitHubIcon />} />
+                <BottomNavigationAction sx={{ color: '#ffffff' }} href='https://github.com/eval-u8' target='_blank' label="GitHub" className={classes.root} icon={<GitHubIcon />} />
                 <BottomNavigationAction sx={{ color: '#ffffff' }} href='https://www.linkedin.com/in/evalecillos/' target='_blank' label="LinkedIn" className={classes.root} icon={<LinkedInIcon />} />
             </BottomNavigation>
         </Box>
