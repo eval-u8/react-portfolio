@@ -36,14 +36,14 @@ function Home() {
             alt="Ernesto"
             sx={{ bgcolor: "#2b2d42", width: 300, height: 300 }}
           />
+          <Typography justifyContent="center" variant="h1">
+            Ernesto Valecillos
+          </Typography>
+          <Typography justifyContent="center" variant="h3">
+            Software Engineer
+          </Typography>
         </Grid>
       </Box>
-      <Typography justifyContent="center" variant="h1">
-        Ernesto Valecillos
-      </Typography>
-      <Typography justifyContent="center" variant="h3">
-        Software Engineer
-      </Typography>
     </>
   );
 }
