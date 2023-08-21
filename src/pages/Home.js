@@ -38,8 +38,12 @@ function Home() {
           />
         </Grid>
       </Box>
-      <Typography variant="h1">Ernesto Valecillos</Typography>
-      <Typography variant="h3">Software Engineer</Typography>
+      <Typography justifyContent="center" variant="h1">
+        Ernesto Valecillos
+      </Typography>
+      <Typography justifyContent="center" variant="h3">
+        Software Engineer
+      </Typography>
     </>
   );
 }
