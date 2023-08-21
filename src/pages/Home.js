@@ -1,5 +1,5 @@
 import React from "react";
-import { Grid, Box, Avatar } from "@mui/material";
+import { Grid, Box, Typography, Avatar } from "@mui/material";
 import { makeStyles } from "@material-ui/core";
 import TheAvatar from "../assets/profile_pic/self.png";
 
@@ -38,6 +38,8 @@ function Home() {
           />
         </Grid>
       </Box>
+      <Typography variant="h1">Ernesto Valecillos</Typography>
+      <Typography variant="h3">Software Engineer</Typography>
     </>
   );
 }
