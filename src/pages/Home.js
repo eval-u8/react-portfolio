@@ -1,18 +1,18 @@
 import React from "react";
-import { Grid, Box, Typography, Avatar } from "@mui/material";
+import { Grid, Box, Avatar } from "@mui/material";
 import { makeStyles } from "@material-ui/core";
 import TheAvatar from "../assets/profile_pic/self.png";
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(theme => ({
   title: {
     color: "#2b2d42",
-    fontSize: "4rem",
+    fontSize: "4rem"
   },
   subtitle: {
     color: "#3782c8",
     fontSize: "2rem",
-    marginBottom: "8rem",
-  },
+    marginBottom: "8rem"
+  }
   // typedContainer: {
   //     position: 'absolute',
   //     top: '40%',
