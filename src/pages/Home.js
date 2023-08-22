@@ -39,6 +39,8 @@ function Home() {
         </Grid>
         <Grid container justifyContent="center">
           <Typography variant="h1">Ernesto Valecillos</Typography>
+        </Grid>
+        <Grid container justifyContent="center">
           <Typography variant="h3">Software Engineer</Typography>
         </Grid>
       </Box>
