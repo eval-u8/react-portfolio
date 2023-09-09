@@ -41,7 +41,7 @@ function Home() {
           <Typography variant="h1">Ernesto Valecillos</Typography>
         </Grid>
         <Grid container justifyContent="center">
-          <Typography variant="h3">Software Engineer</Typography>
+          <Typography variant="h3">Front End Web Developer</Typography>
         </Grid>
       </Box>
     </>
