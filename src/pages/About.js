@@ -24,8 +24,8 @@ function About() {
               About me
             </Typography>
             <Typography variant="h6">
-              Hola! My name's Ernesto I'm a Full Stack Web Developer graduated
-              from UT Austin based in Houston. I've always been working on
+              Hola! My name's Ernesto I'm a Front End Web Developer graduated
+              from the University of Texas at Austin: Full stack development bootcamp based in Houston. I've always been working on
               computers, software or hardware related; in fact, most of my
               background is in computer repair and troubleshooting. This
               eventually lead into a management/mentorship position where I
